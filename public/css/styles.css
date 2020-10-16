@@ -1,9 +1,1 @@
-.container {
-  width: 500px;
-  height: 500px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 10px; }
-
-.container div {
-  background-color: #ccc; }
+.container{width:500px;height:500px;display:grid;grid-template-columns:1fr 1fr 1fr;grid-gap:10px}.container div{background-color:#ccc}

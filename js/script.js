@@ -1,5 +1,5 @@
 let color = 'red';
-function (event) {
+function changeColor(event) {
   if(color === 'red') {
     event.currentTarget.style.backgroundColor = 'red';
     color = 'blue';
